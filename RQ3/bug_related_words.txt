@@ -1,0 +1,9 @@
+bug
+fix
+repair
+defect
+vulnerable
+vulnerability
+修复
+漏洞
+缺陷
